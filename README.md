@@ -35,7 +35,7 @@ I’m a passionate **Front-End Developer** with a keen eye for design and intera
 
 ### 🌱 What I’m Currently Learning  
 - Advanced React Patterns  
-- Three.js for 3D Web Experiences  
+- More GSAP Web Animation's Concepts For Website Asthetics  
 - Performance Optimization  
 
 ---
@@ -51,14 +51,14 @@ I’m a passionate **Front-End Developer** with a keen eye for design and intera
 ### 📫 Let’s Connect!  
 I’m always open to **collaborations, discussions, or just a friendly chat** about web development!  
 
-📧 **Email**: your.email@example.com  
-💼 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)  
+📧 **Email**: papubadatya355@gamil.com  
+💼 **Portfolio**: [your-portfolio-link.com](https://my-portfolio-pb7.netlify.app/)  
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Language" />
 </p>
 
 ---
