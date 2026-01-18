@@ -52,7 +52,7 @@ I’m a passionate **Front-End Developer** with a keen eye for design and intera
 I’m always open to **collaborations, discussions, or just a friendly chat** about web development!  
 
 📧 **Email**: papubadatya355@gamil.com  
-💼 **Portfolio**: [your-portfolio-link.com](https://my-portfolio-pb7.netlify.app/)  
+💼 **Portfolio**: [My-portfolio-link.com](https://my-new-portfolio-3sq7.vercel.app/)  
 
 ---
 
